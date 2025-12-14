@@ -4,3 +4,4 @@ This repository includes the concepts and projects made for data visualization u
 
     1. Matplotlib
     2. Seaborn
+And it clearly showcases the different types of plots in data visualization
