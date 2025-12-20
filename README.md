@@ -11,4 +11,4 @@ And it clearly showcases the different types of plots in data visualization like
     3. Distribution Plots
     4. Regression & mixed plots
     5. Matrix/Grid Plots
-And at Last an IPL 2022 visualization and Analysis project 
+And at Last an IPL 2022 Analysis and Visualization project 
